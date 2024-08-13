@@ -27,3 +27,7 @@ This project is a web-based application designed to manage flight operations eff
 * Access the application through a web browser using the URL.
 Contributing
 * Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
+
+## Authors
+
+* [Sahil Shaikh](https://github.com/ssshaikh2112)

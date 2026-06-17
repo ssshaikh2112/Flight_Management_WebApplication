@@ -1,7 +1,6 @@
 # Flight_Management_WebApplication
 
 A comprehensive flight management system built using Java, JSP, Servlet, and JDBC.
-
 ## Overview
 This project is a web-based application designed to manage flight operations efficiently. It provides a user-friendly interface for administrators to manage flights, passengers, and bookings. The system ensures seamless communication between airlines, passengers, and airport authorities.
 

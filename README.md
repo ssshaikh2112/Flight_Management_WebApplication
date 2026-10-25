@@ -5,6 +5,7 @@ A comprehensive flight management system built using Java, JSP, Servlet, and JDB
 This project is a web-based application designed to manage flight operations efficiently. It provides a user-friendly interface for administrators to manage flights, passengers, and bookings. The system ensures seamless communication between airlines, passengers, and airport authorities.
 
 ## Features
+
 * Flight Management: Create, update, and delete flight schedules, including flight numbers, departure and arrival airports, dates, and times.
 * Passenger Management: Manage passenger information, including booking and cancellation of flights.
 * Booking Management: Handle flight bookings, including seat allocation and payment processing.
